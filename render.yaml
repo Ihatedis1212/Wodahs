@@ -1,6 +1,6 @@
  services:
   - type: web
-    name: learn-astrology
+    name: idk-idk-idk
     env: node
     plan: free
     startCommand: npm install && npm start
